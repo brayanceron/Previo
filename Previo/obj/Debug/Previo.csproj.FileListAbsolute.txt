@@ -1,0 +1,14 @@
+C:\Users\Braya\source\repos\Previo\Previo\bin\Debug\Previo.exe.config
+C:\Users\Braya\source\repos\Previo\Previo\bin\Debug\Previo.exe
+C:\Users\Braya\source\repos\Previo\Previo\bin\Debug\Previo.pdb
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Adicionar.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Comprar2.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Eliminar.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Form1.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Properties.Resources.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.Tienda.resources
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.csproj.GenerateResource.cache
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.exe
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.pdb
+C:\Users\Braya\source\repos\Previo\Previo\obj\Debug\Previo.csprojAssemblyReference.cache
