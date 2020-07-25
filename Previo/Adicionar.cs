@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//comentario de prueba
 namespace Previo
 {
     public partial class Adicionar : Form
