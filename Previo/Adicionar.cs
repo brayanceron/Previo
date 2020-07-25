@@ -8,6 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //comentario de prueba
+/*
+CREATE EXTENSION pgcrypto;
+CREATE TABLE usuarios(nombre VARCHAR(50), password VARCHAR(255),cargo VARCHAR(20)); 
+
+INSERT INTO usuarios (nombre, password,cargo) VALUES ('admin', PGP_SYM_ENCRYPT('admin','AES_KEY'),'DIRECTOR_TI');
+
+--Para ver los datos desencriptados, utilizaremos la siguiente sentencia:
+--SELECT nombre, pgp_sym_decrypt(password::bytea,'AES_KEY'),cargo FROM usuarios;
+
+--La siguiente sentencia cambia la contraseña, encriptando la misma:
+--UPDATE usuarios SET password=(PGP_SYM_ENCRYPT('MADRIGAL-22', 'AES_KEY'));
+
+*/
 namespace Previo
 {
     public partial class Adicionar : Form
